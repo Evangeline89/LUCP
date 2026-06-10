@@ -7,14 +7,18 @@ Project/
 │   ├── utils.py               
 │   ├── base.py               
 │   └── __init__.py
+
 ├── data_preprocessing/       
 │   ├── prepare_datasets.py   
 │   ├── nlcd_processor.py     
 │   └── __init__.py
+
 ├── scripts/                  
 │   ├── train_models.py       
-│   └── test_models.py        
-├── data/                      
+│   └── test_models.py 
+
+├── data/   
+
 ├── requirements.txt
 └── RUN_GUIDE.txt
 ```
