@@ -1,7 +1,4 @@
-# TACNet
-TACNet is a deep learning model for land use change prediction. It combines a transfer sensing mechanism, a dual-scale recurrent network, spatiotemporal window attention, and U-Net jump connections to achieve accurate prediction of land use change.
 
-```
 Project/
 ├── land_use_models/         
 │   ├── tacnet.py             
