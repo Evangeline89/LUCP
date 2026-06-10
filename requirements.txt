@@ -1,4 +1,4 @@
-# TACNet v3 - Land Use Change Prediction
+# LUCP
 Python >= 3.9
 
 # Deep Learning
