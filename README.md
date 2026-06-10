@@ -37,10 +37,7 @@ Place the NPZ formatted dataset in the `data/` directory. The dataset must conta
 | `classes` | `(C,)` | class code array |
 | `class_names` | `(C,)` | class name |
 
-## How to use
-
-# run：
-
+run
 ```bash
 python scripts/test_models.py --data data/jilin_real_v3.npz --model-dir artifacts/seeds --models tacnet --sequence-years 2019 2020 2021 2022 2023 --target-year 2024  --device cuda --output-dir results
 ```
